@@ -1,1 +1,1 @@
-# Code Refactor Starter Code
+# Code for my first module challenge.  In this challenge I was tasked to change syntax used in the given html, as well as add some classes to make the styling easier.  I also was able to combine some of the styles within the css to make it a shorter, and simpler code.  
