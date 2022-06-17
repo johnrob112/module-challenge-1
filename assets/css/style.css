@@ -127,19 +127,19 @@ p {
     background-color: #2589bd;
 }
 
-.sidelist {
+.benefitlist {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-.sidelist h3 {
+.benefitlist h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 
-.sidelist img {
+.benefitlist img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
